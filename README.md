@@ -2,7 +2,7 @@
 
 ## Summary
 
-SPFx Web Part Example Using React Hooks and PNPjs v3
+SPFx Web Part Example Using Functional Components, React Hooks and PNPjs v3
 
 ## Used SharePoint Framework Version
 
