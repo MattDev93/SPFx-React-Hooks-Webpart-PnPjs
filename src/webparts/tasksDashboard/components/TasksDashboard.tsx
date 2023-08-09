@@ -24,7 +24,6 @@ export default function TasksDashboard(props: ITasksDashboardWebPartProps) {
       .getByTitle("Tasks")
       .items.getAll()
       .then((items: ITaskListProps[]) => {
-        console.log(items);
         setTaskList(items);
       })
       .catch((error) => {
