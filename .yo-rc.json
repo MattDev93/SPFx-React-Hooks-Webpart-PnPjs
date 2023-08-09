@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "16.13.2",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.9.1"
+    },
+    "version": "1.17.4",
+    "libraryName": "sp-fx-react-tasks-dashboard",
+    "libraryId": "d03c6b0b-756a-45ad-a48a-f5102a37eb7a",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "SPFx-React-Tasks-Dashboard",
+    "solutionShortDescription": "SPFx-React-Tasks-Dashboard description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

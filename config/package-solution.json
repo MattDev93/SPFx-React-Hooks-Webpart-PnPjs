@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "sp-fx-react-tasks-dashboard-client-side-solution",
+    "id": "d03c6b0b-756a-45ad-a48a-f5102a37eb7a",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.17.4"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "SPFx-React-Tasks-Dashboard description"
+      },
+      "longDescription": {
+        "default": "SPFx-React-Tasks-Dashboard description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "sp-fx-react-tasks-dashboard Feature",
+        "description": "The feature that activates elements of the sp-fx-react-tasks-dashboard solution.",
+        "id": "34b0cd43-4e4a-48fe-a516-6f8abf716e25",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/sp-fx-react-tasks-dashboard.sppkg"
+  }
+}
