@@ -48,8 +48,8 @@ SPFx Web Part Example Using React Hooks and PNPjs v3
 - in the command-line run:
   - **npm install**
   - **gulp serve**
-    
-  - Set the "initialPage" variable in serve.json with your dev tenant URL
+
+Set the "initialPage" variable in serve.json with your dev tenant URL
 
 
 ## Features
